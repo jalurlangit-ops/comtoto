@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-const nameDomain = "https://camnangphaidep.com";
+const nameDomain = "https://phillybellesart.com";
  
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
