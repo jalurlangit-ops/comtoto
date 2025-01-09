@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://phillybellesart.com/sitemap.xml
+Sitemap: https://www.ensoftyazilim.com/sitemap.xml
