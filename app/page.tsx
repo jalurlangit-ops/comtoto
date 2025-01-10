@@ -90,10 +90,10 @@ export default function Home() {
             </div>
             <h1>Comtoto 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
             <p>
-              comtoto muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, comtoto menggabungkan rtp yang sangat akurat hingga 99%.
+              Bagi para penggemar slot online, Comtoto hadir sebagai platform terbaik untuk menikmati permainan dengan cara yang simpel dan menguntungkan. Dengan fitur deposit pulsa tanpa potongan, Anda bisa bermain tanpa khawatir kehilangan saldo tambahan. Nikmati kemudahan transaksi melalui provider pulsa favorit Anda, sekaligus rasakan sensasi bermain slot dengan pilihan game yang lengkap dan menarik. Tidak hanya praktis, Comtoto juga menjamin keamanan dan kenyamanan Anda dalam setiap proses transaksi
             </p>
             <p>
-              comtoto menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
+              Selain deposit pulsa, Comtoto juga menawarkan opsi deposit melalui Dana yang super praktis. Dengan proses cepat dan tanpa ribet, Anda dapat langsung mengisi saldo dan mulai bermain dalam hitungan detik. Platform ini dirancang untuk memberikan pengalaman bermain terbaik, didukung oleh tampilan yang user-friendly dan promo menarik setiap harinya. Jadi, tunggu apa lagi? Bergabunglah dengan ribuan pemain lainnya yang telah memilih Comtoto sebagai tempat bermain slot online terpercaya
             </p>
             
             <p>
